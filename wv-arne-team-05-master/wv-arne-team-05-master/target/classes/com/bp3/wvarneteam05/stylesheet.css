@@ -1,0 +1,55 @@
+.pane-primary {
+    -fx-background-color: #FFFFFF;
+    -fx-font-family: "Segoe UI";
+}
+
+.button-primary {
+    -fx-background-color: #1B60A2;
+    -fx-border: #1B60A2 1px solid;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 42px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 25;
+    -fx-background-radius: 25;
+    -fx-cursor: hand;
+}
+
+.button-back {
+    -fx-background-color: #1B60A2;
+    -fx-border: #1B60A2 1px solid;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 42px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 25;
+    -fx-background-radius: 25;
+    -fx-cursor: hand;
+    -fx-padding: 5 20 5 20;
+}
+
+.label-input {
+    -fx-text-fill: #000000;
+    -fx-font-size: 42px;
+    -fx-font-weight: bold;
+}
+
+.input-primary {
+    -fx-text-fill: #000000;
+    -fx-background-radius: 50;
+    -fx-border: #707070 5px solid;
+    -fx-border-radius: 50;
+    -fx-font-size: 32px;
+    -fx-pref-width: 800px;
+    -fx-pref-height: 50px;
+}
+
+.button-berth {
+    -fx-text-fill: #000000;
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 25;
+    -fx-border-color: #000000;
+    -fx-border-style: solid;
+    -fx-border-width: 1 1 1 1;
+    -fx-border-radius: 25;
+    -fx-font-size: 42px;
+    -fx-cursor: hand;
+}
